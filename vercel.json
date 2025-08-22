@@ -15,7 +15,7 @@
       "src": "/productDetails/(.*)",
       "status": 302,
       "headers": {
-        "Location": "intent://diva-lady-deep-linking.vercel.app/productDetails/$1#Intent;scheme=https;package=com.codingeagle.divaladyapp;S.browser_fallback_url=https://play.google.com/store/apps/details?id=com.codingeagle.divaladyapp;end;"
+        "Location": "intent://green-island-app-link.vercel.app/productDetails/$1#Intent;scheme=https;package=com.greenislandapp;S.browser_fallback_url=https://play.google.com/store/apps/details?id=com.greenislandapp;end;"
       },
       "continue": true
     },
@@ -23,7 +23,7 @@
       "src": "/productDetails/(.*)",
       "status": 302,
       "headers": {
-        "Location": "https://apps.apple.com/app/id6746558236"
+        "Location": "https://apps.apple.com/app/id6746166638"
       }
     }
   ]
